@@ -1,0 +1,11 @@
+/Users/jason/Projects/Assessment1a/Assessment1a/obj/Debug/netcoreapp2.1/Assessment1a.csprojAssemblyReference.cache
+/Users/jason/Projects/Assessment1a/Assessment1a/obj/Debug/netcoreapp2.1/Assessment1a.csproj.CoreCompileInputs.cache
+/Users/jason/Projects/Assessment1a/Assessment1a/obj/Debug/netcoreapp2.1/Assessment1a.AssemblyInfoInputs.cache
+/Users/jason/Projects/Assessment1a/Assessment1a/obj/Debug/netcoreapp2.1/Assessment1a.AssemblyInfo.cs
+/Users/jason/Projects/Assessment1a/Assessment1a/bin/Debug/netcoreapp2.1/Assessment1a.deps.json
+/Users/jason/Projects/Assessment1a/Assessment1a/bin/Debug/netcoreapp2.1/Assessment1a.runtimeconfig.json
+/Users/jason/Projects/Assessment1a/Assessment1a/bin/Debug/netcoreapp2.1/Assessment1a.runtimeconfig.dev.json
+/Users/jason/Projects/Assessment1a/Assessment1a/bin/Debug/netcoreapp2.1/Assessment1a.dll
+/Users/jason/Projects/Assessment1a/Assessment1a/bin/Debug/netcoreapp2.1/Assessment1a.pdb
+/Users/jason/Projects/Assessment1a/Assessment1a/obj/Debug/netcoreapp2.1/Assessment1a.dll
+/Users/jason/Projects/Assessment1a/Assessment1a/obj/Debug/netcoreapp2.1/Assessment1a.pdb
